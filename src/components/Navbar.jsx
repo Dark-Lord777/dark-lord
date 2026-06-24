@@ -5,7 +5,7 @@ import { IoClose } from 'react-icons/io5'
 
 
 function Navbar() {
-  const [isOpen, setIsOpen] = useState(false)
+  const [isOpen, setIsOpen] = useState(false);
 
   const handleLinkClick = () => {
     setIsOpen(false)
