@@ -49,7 +49,7 @@ function Navbar() {
       <Link to="/licenses" style={{ color: '#c084fc', textDecoration: 'none', fontWeight: '500' }}>
         📜 Licenses 
       </Link>
-    </nav>
+    </div>
     <nav className="mobile-nav">
     <span style={{color: '#c084fc', fontSize: '20px', fontWeight: 'bold'  }}>
     
