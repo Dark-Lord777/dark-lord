@@ -69,7 +69,23 @@ hr {
   margin: 0 auto;
   padding: 20px;
 }
-
+.desktop-nav {
+  padding: 16px 24px;
+  display: flex;
+  gap: 24px;
+  background-color: #1a1a2e;
+  border-bottom: 1px solid #2d1b4e;
+  flex-wrap: wrap;
+  justify-center: center;
+}
+.mobile-nav {
+  padding: 16px 24px;
+  background-color: #1a1a2e;
+  border-bottom: 1px solid #2d1b4e;
+  display: flex;
+  justify-center: center;
+  align-items: center;
+}
 @media (max-width: 760px) {
   .desktop-nav {
     display: none !important;
