@@ -35,7 +35,7 @@ function Navbar() {
   </div>
   {isOpen && <div className="overlay" onClick={() => setIsOpen(false)} />}
 
-  <div ref(menuRef) className={'drawer ${isOpen ? 'open' : ''}'}>
+  <div ref{menuRef} className={`drawer ${isOpen ? 'open' : ''}`}>
         <h2 className="drawer-title">Menu</h2>
     <Link to="/" style={{ color: '#c084fc', textDecoration: 'none', fontWeight: '500'}} >
       👾 About Me 
