@@ -26,7 +26,6 @@ function Navbar() {
         📜 Licenses 
       </Link>
     </nav>
-    //mobile
     <nav className="mobile-nav">
     <span style={{color: '#c084fc', fontSize: '20px', fontWeight: 'bold'  }}>
     👑 Dark Lord
