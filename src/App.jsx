@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar' //navigation/ also do navigation bar
 import Projects from './pages/Projects.jsx'
 import Fortune from './pages/fortune.jsx'
@@ -9,7 +9,7 @@ import About from './pages/About.jsx'
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<About />} />
@@ -20,7 +20,7 @@ function App() {
         <Route path="/projects/fortune/privacy" element={<Privacy />} />
         <Route path="/projects/fortune/licenses" element={<Licenses />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   )
 }
 
