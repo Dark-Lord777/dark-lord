@@ -27,6 +27,24 @@ function Navbar() {
       </Link>
     </nav>
     //mobile
+    <nav className="mobile-nav">
+    <span style={{color: '#c084fc', fontSize: '20px', fontWeight: 'bold'  }}>
+    👑 Dark Lord
+    </span>
+    <button 
+      onClick-{() => setIsOpen(!isOpen)}
+      style={{
+      background: 'none',
+      border: 'none',
+      color: '#c084fc',
+      fontSize: '30px',
+      cursor: 'pointer'
+      }}
+      >
+      {isOpen ? <IoClose/> : <GiHamburgerMenu/>}
+      </button>
+    </nav>
+    {isOpen && (
     <div className="mobile-dropdown">
     <Link to="/" style={{ color: '#c084fc', textDecoration: 'none', fontWeight: '18px'}} >
       👾 About Me 
