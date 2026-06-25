@@ -81,15 +81,6 @@ function Navbar() {
           )}
         </div>
 
-        <Link to="/projects/fortune/terms" className="drawer-link" onClick={handleLinkClick}>
-          📄 Terms
-        </Link>
-        <Link to="/projects/fortune/privacy" className="drawer-link" onClick={handleLinkClick}>
-          🔒 Privacy
-        </Link>
-        <Link to="/projects/fortune/licenses" className="drawer-link" onClick={handleLinkClick}>
-          📜 Licenses
-        </Link>
       </div>
     </>
   )
