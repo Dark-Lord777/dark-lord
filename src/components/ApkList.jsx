@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const APK_SERVER_URL = 'https://huggingface.co/spaces/Dark-Lord77/homelab/apk-files';
+const APK_SERVER_URL = 'https://Dark-Lord77-homelab.hf.space/files';
 
 const ApkList = () => {
   const [apks, setApks] = useState([]);
