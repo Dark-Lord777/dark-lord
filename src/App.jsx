@@ -6,6 +6,7 @@ import Terms from './pages/Terms'
 import Privacy from './pages/Privacy'
 import Licenses from './pages/Licenses'
 import About from './pages/About.jsx'
+import Apk from './content/apk.md'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/projects/fortune/terms" element={<Terms />} />
         <Route path="/projects/fortune/privacy" element={<Privacy />} />
         <Route path="/projects/fortune/licenses" element={<Licenses />} />
+        <Route path="/projects/fortune/apk" element={<Apk />} />
       </Routes>
     </BrowserRouter>
   )

@@ -44,10 +44,13 @@ function Navbar() {
 
       {/* Выдвижное меню */}
       <div ref={menuRef} className={`drawer ${isOpen ? 'open' : ''}`}>
-        <h2 className="drawer-title">📋 Меню</h2>
+        <h2 className="drawer-title">📋 Menu</h2>
 
         <Link to="/" className="drawer-link" onClick={handleLinkClick}>
           👾 About Me
+        </Link>
+        <Link to = "/projects/fortune/apk" className="drawer-link" onClick={handleLinkClick}>
+          Apk Downloads 
         </Link>
 
         {/* Пункт "Projects" с раскрывашкой */}
