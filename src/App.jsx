@@ -6,7 +6,7 @@ import Terms from './pages/Terms'
 import Privacy from './pages/Privacy'
 import Licenses from './pages/Licenses'
 import About from './pages/About.jsx'
-import Apk from './content/apk.md'
+import Apk from './pages/Apk.jsx'
 
 function App() {
   return (
