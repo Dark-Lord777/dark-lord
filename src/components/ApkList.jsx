@@ -116,7 +116,7 @@ const ApkList = () => {
               </span>
             </div>
             <a
-              href={`https://YOUR_SPACE_URL/download/${apk.name}`}
+              href={`https://dark-lord77-homelab.hf.space/download/${apk.name}`}
               style={{
                 background: '#9b59b6',
                 color: '#fff',
@@ -138,7 +138,7 @@ const ApkList = () => {
               }}
               download
             >
-              ⬇️ Скачать
+              ⬇️ Download 
             </a>
           </div>
         );
