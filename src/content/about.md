@@ -1,13 +1,26 @@
-# 👨‍💻 Обо мне
+# 🛠️ Projects & Apps
 
-## Привет! Я Dark Lord
+Welcome to my personal corner on the web.
 
-Я разработчик из [твой город]. Пишу на Flutter, React и ещё куче всего.
+I create mobile apps, scripts, and various web experiments.
 
-### Мои проекты:
-- [**Wheel of Fortune**](/projects/fortune) — приложение для случайных выборов
-- **Другие проекты** — скоро появятся
+---
 
-### Контакты:
-- GitHub: [Dark-Lord777](https://github.com/Dark-Lord777)
-- Telegram: @darklord
+### 🎡 Featured Project:
+- [**`Wheel of Fortune`**](/projects/fortune) — A clean, no-ads decision maker app for `Android`.
+- You can download the latest `APK` 
+ [here](/projects/fortune/apk).
+
+---
+
+### 🧪 Other Experiments & Stuff:
+- **Web Tools & Mini-Apps** — UI components, randomizers, and small utility scripts.
+- **Pet Projects** — Code experiments in `Flutter`, `React`, and `Vite`.
+- **Open Source** — Various repos, tools, and code snippets I work on from time to time.
+
+---
+
+### 🔗 Connect & Code:
+Found a bug, want to check out my code, or explore all my repositories?
+
+- `GitHub`:  [`Dark-Lord777`](https://github.com/Dark-Lord777)

@@ -1,81 +1,81 @@
-# 📜 Лицензии
+# 📜 Licenses
 
-**Wheel of Fortune** использует следующие библиотеки с открытым исходным кодом.
+`Wheel of Fortune`  uses the following open-source libraries.
 
 ---
 
-## 🟣 Flutter SDK
+## 🟣 `Flutter SDK`
 
-**Лицензия:** BSD 3-Clause
+**License:** `BSD 3-Clause`
 
-Copyright © 2024 The Flutter Authors
+Copyright © 2026 The Flutter Authors
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions are met.
 
 ---
 
-## 🟣 SQFlite
+## 🟣 `SQFlite`
 
-**Лицензия:** MIT
+**License:** `MIT`
 
-Copyright © 2024
+Copyright © 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 ---
 
-## 🟣 Shared Preferences
+## 🟣 `Shared Preferences`
 
-**Лицензия:** BSD 3-Clause
+**License:** `BSD 3-Clause`
 
-Copyright © 2024 The Flutter Authors
+Copyright © 2026 The Flutter Authors
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions are met.
 
 ---
 
-## 🟣 URL Launcher
+## 🟣 `URL Launcher`
 
-**Лицензия:** BSD 3-Clause
+**License:** `BSD 3-Clause`
 
-Copyright © 2024 The Flutter Authors
+Copyright © 2026 The Flutter Authors
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions are met.
 
 ---
 
-## 🟣 Bee Dynamic Launcher
+## 🟣 `Bee Dynamic Launcher`
 
-**Лицензия:** MIT
+**License:** `MIT`
 
-Copyright © 2024
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-
----
-
-## 🟣 React
-
-**Лицензия:** MIT
-
-Copyright © 2024 Meta Platforms, Inc.
+Copyright © 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 ---
 
-## 🟣 Vite
+## 🟣 `React`
 
-**Лицензия:** MIT
+**License:** `MIT`
 
-Copyright © 2024 Vite Contributors
+Copyright © 2026 Meta Platforms, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 ---
 
-**Полный список лицензий** доступен в приложении.
+## 🟣 `Vite`
+
+**License:** `MIT`
+
+Copyright © 2026 Vite Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 ---
 
-**Последнее обновление:** 2024
+**Full list of licenses** is available inside the application.
+
+---
+
+**Last Updated:** `2026`

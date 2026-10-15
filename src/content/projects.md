@@ -1,35 +1,35 @@
-# 🚀 Мои проекты
+# 🚀 My Projects
 
-Здесь собраны все мои проекты, над которыми я работаю.
-
----
-
-## 🎡 Wheel of Fortune
-
-**Приложение для случайных выборов**
-
-Крути колесо и выбирай случайный вариант из списка. Идеально для:
-- Выбора фильма на вечер
-- Решения, что съесть на обед
-- Случайных розыгрышей
-- И просто для веселья!
-
-**Особенности:**
-- 🎨 Красивый интерфейс с тёмной темой
-- ➕ Добавляй сколько угодно секторов
-- 🔄 Плавная анимация вращения
-- 📱 Работает на Android и в вебе
-
-[Перейти к проекту →](/projects/fortune)
+Here are all the projects I am currently working on.
 
 ---
 
-## 🧩 Другие проекты
+## 🎡 `Wheel of Fortune`
 
-Скоро здесь появятся новые проекты. Следи за обновлениями!
+**Random Choice App**
+
+Spin the wheel and pick a random option from the list. Perfect for:
+- Choosing a movie for the evening
+- Deciding what to eat for lunch
+- Random giveaways
+- And just for fun!
+
+**Features:**
+- 🎨 Beautiful interface with a dark theme
+- ➕ Add as many sectors as you want
+- 🔄 Smooth rotation animation
+- 📱 Works on `Android` and on the web
+
+[Go to project →](/projects/fortune)
 
 ---
 
-**Контакты:**
-- GitHub: [Dark-Lord777](https://github.com/Dark-Lord777)
-- Telegram: @darklord
+## 🧩 Other Projects
+
+New projects will appear here soon. Stay tuned!
+
+---
+
+**Contacts:**
+- `GitHub`: [`Dark-Lord777`](https://github.com/Dark-Lord777)
+- `Telegram`: `@darklord`

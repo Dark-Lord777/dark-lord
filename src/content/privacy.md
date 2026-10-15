@@ -1,58 +1,58 @@
-# 🔒 Политика конфиденциальности
+# 🔒 Privacy Policy
 
-**Wheel of Fortune** уважает вашу приватность.
-
----
-
-## 1. Сбор данных
-
-1.1. Мы **НЕ СОБИРАЕМ** никакие личные данные пользователей.
-
-1.2. Мы не используем аналитику, трекеры или рекламу.
+`Wheel of Fortune` respects your privacy.
 
 ---
 
-## 2. Хранение данных
+## 1. Data Collection
 
-2.1. Все данные хранятся **локально** на вашем устройстве.
+1.1. We **DO NOT COLLECT** any personal user data.
 
-2.2. Используемые технологии хранения:
-- **SharedPreferences** — для настроек
-- **SQLite** — для истории вращений
-
-2.3. Мы **не имеем доступа** к этим данным.
+1.2. We do not use analytics, trackers, or ads.
 
 ---
 
-## 3. Передача данных
+## 2. Data Storage
 
-3.1. Мы **НЕ ПЕРЕДАЁМ** никакие данные третьим лицам.
+2.1. All data is stored **locally** on your device.
 
-3.2. Приложение не отправляет данные в интернет.
+2.2. Storage technologies used:
+- `SharedPreferences` — for settings
+- `SQLite` — for spin history
 
----
-
-## 4. Безопасность
-
-4.1. Так как данные хранятся только на вашем устройстве, ответственность за их сохранность лежит на вас.
-
-4.2. Мы не можем восстановить ваши данные в случае потери устройства.
+2.3. We **have no access** to this data.
 
 ---
 
-## 5. Права пользователей
+## 3. Data Transfer
 
-5.1. Вы можете в любой момент:
-- Очистить историю вращений
-- Удалить все данные приложения
-- Удалить приложение
+3.1. We **DO NOT TRANSFER** any data to third parties.
 
----
-
-## 6. Контакты
-
-По вопросам конфиденциальности: **support@example.com**
+3.2. The app does not send data to the internet.
 
 ---
 
-**Последнее обновление:** 2024
+## 4. Security
+
+4.1. Since data is stored only on your device, you are responsible for keeping it safe.
+
+4.2. We cannot restore your data in case of device loss.
+
+---
+
+## 5. User Rights
+
+5.1. You can at any time:
+- Clear spin history
+- Delete all app data
+- Uninstall the app
+
+---
+
+## 6. Contacts
+
+For privacy concerns: `support@example.com`
+
+---
+
+**Last Updated:** `2026`

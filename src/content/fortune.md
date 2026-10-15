@@ -1,49 +1,49 @@
-# 🎡 Wheel of Fortune
+# 🎡 `Wheel of Fortune`
 
-## Приложение для случайных выборов
+## Random Choice App
 
-Крути колесо и выбирай случайный вариант из списка!
-
----
-
-## 🚀 Как это работает?
-
-1. **Добавь сектора** — напиши названия вариантов (например, "Пицца", "Суши", "Бургер")
-2. **Нажми "Крутить"** — колесо начнёт вращаться
-3. **Смотри результат** — колесо остановится и покажет победителя!
+Spin the wheel and pick a random option from the list!
 
 ---
 
-## ✨ Особенности
+## 🚀 How it works?
 
-- 🎨 **Красивый дизайн** — тёмная тема с фиолетовыми и розовыми акцентами
-- ➕ **Безлимитные сектора** — добавляй хоть 1, хоть 20 секторов
-- 🔄 **Плавная анимация** — колесо крутится с реалистичным замедлением
-- 📱 **Мобильная версия** — работает на телефонах и планшетах
-
----
-
-## 🛠 Технологии
-
-- **Flutter** — кроссплатформенная разработка
-- **SQLite** — хранение истории вращений
-- **SharedPreferences** — сохранение настроек
+1. **Add sectors** — write option names (for example, "Pizza", "Sushi", "Burger")
+2. **Press "Spin"** — the wheel will start spinning
+3. **See the result** — the wheel will stop and show the winner!
 
 ---
 
-## 📱 Скачать
+## ✨ Features
 
-Приложение доступно для Android в Uptodawn (скоро).
-
----
-
-## 🔗 Ссылки
-
-- [GitHub репозиторий](https://github.com/Dark-Lord777/FirstApp)
-- [Политика конфиденциальности](/projects/fortune/privacy)
-- [Условия использования](/projects/fortune/terms)
+- 🎨 **Beautiful design** — dark theme with purple and pink accents
+- ➕ **Unlimited sectors** — add as many sectors as you want
+- 🔄 **Smooth animation** — realistic deceleration effect
+- 📱 **Mobile version** — works on phones and tablets
 
 ---
 
-**Версия:** 1.0.1
-**Последнее обновление:** 2026
+## 🛠 Tech Stack
+
+- `Flutter` — cross-platform development
+- `SQLite` — spin history storage
+- `SharedPreferences` — settings storage
+
+---
+
+## 📱 Download
+
+The app will be available for `Android` on `Uptodawn` (coming soon).
+
+---
+
+## 🔗 Links
+
+- [`GitHub` Repository](https://github.com/Dark-Lord777/FirstApp)
+- [Privacy Policy](/projects/fortune/privacy)
+- [Terms of Use](/projects/fortune/terms)
+
+---
+
+**Version:** `1.0.1`  
+**Last Updated:** `2026`

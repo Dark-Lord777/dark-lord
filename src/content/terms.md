@@ -1,60 +1,60 @@
-# 📄 Условия использования
+# 📄 Terms of Use
 
-**Wheel of Fortune** — приложение для генерации случайных выборов.
-
----
-
-## 1. Общие положения
-
-1.1. Настоящие условия использования регулируют отношения между пользователем и разработчиком приложения **Wheel of Fortune**.
-
-1.2. Используя приложение, вы соглашаетесь с данными условиями.
+`Wheel of Fortune` — random choice generator app.
 
 ---
 
-## 2. Использование приложения
+## 1. General Provisions
 
-2.1. Приложение предоставляется **«как есть»** (as-is).
+1.1. These terms of use govern the relationship between the user and the developer of the `Wheel of Fortune` app.
 
-2.2. Пользователь использует приложение на **свой страх и риск**.
-
-2.3. Мы не гарантируем, что приложение будет работать без ошибок.
+1.2. By using the app, you agree to these terms.
 
 ---
 
-## 3. Данные пользователей
+## 2. Use of the Application
 
-3.1. Приложение **НЕ СОБИРАЕТ** личные данные пользователей.
+2.1. The app is provided **"as-is"**.
 
-3.2. Все данные (список секторов, история вращений) хранятся **локально** на устройстве пользователя.
+2.2. The user uses the app at **their own risk**.
 
-3.3. Мы не имеем доступа к данным, которые вы сохраняете в приложении.
-
----
-
-## 4. Ответственность
-
-4.1. Мы **не несём ответственности** за:
-- Любой ущерб, возникший в результате использования приложения
-- Потерю данных
-- Сбои в работе приложения
-
-4.2. Вы используете приложение на **свой риск**.
+2.3. We do not guarantee that the app will operate error-free.
 
 ---
 
-## 5. Изменения
+## 3. User Data
 
-5.1. Мы оставляем за собой право изменять эти условия в любое время.
+3.1. The app **DOES NOT COLLECT** personal user data.
 
-5.2. Изменения вступают в силу с момента публикации.
+3.2. All data (sector list, spin history) is stored **locally** on the user's device.
 
----
-
-## 6. Контакты
-
-По всем вопросам: **support@example.com**
+3.3. We have no access to the data you save in the app.
 
 ---
 
-**Последнее обновление:** 2024
+## 4. Liability
+
+4.1. We **are not responsible** for:
+- Any damage resulting from the use of the app
+- Data loss
+- App malfunctions
+
+4.2. You use the application at **your own risk**.
+
+---
+
+## 5. Changes
+
+5.1. We reserve the right to change these terms at any time.
+
+5.2. Changes take effect upon publication.
+
+---
+
+## 6. Contacts
+
+For all questions: `support@example.com`
+
+---
+
+**Last Updated:** `2026`

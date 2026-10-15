@@ -2,6 +2,8 @@ import ReactMarkdown from 'react-markdown'
 import { Link } from 'react-router-dom'
 
 function MarkdownPage({ content }) {
+  const cleanContent = content ? content.replace(/<!--[\s\S]*?-->/g, '') : ''
+
   return (
     <div className="container">
       <ReactMarkdown
@@ -12,24 +14,19 @@ function MarkdownPage({ content }) {
             }
             return (
               <a href={href} target="_blank" rel="noopener noreferrer">
-              {children}
-            </a> 
+                {children}
+              </a> 
             )
-        },
+          },
+          
           code: ({ children }) => (
-            <code style={{
-              background: '#1a1a2e',
-              padding: '2px 8px',
-              borderRadius: '4px',
-              color: '#c084fc',
-              fontSize: '0.9em'
-            }}>
+            <span className="notranslate notranslate-text" translate="no">
               {children}
-            </code>
+            </span>
           ),
         }}
       >
-        {content}
+        {cleanContent}
       </ReactMarkdown>
     </div>
   )

@@ -189,3 +189,23 @@ hr {
   text-decoration: none;
   font-size: 18px;
 }
+
+/* Делаем текст в кавычках `...` обычным на вид (без фиолетовой плашки и фона) */
+.notranslate-text {
+  font-family: inherit !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: inherit !important;
+  font-size: inherit !important;
+}
+
+/* На всякий случай гасим верхний баннер и подсвечивание Google Translate */
+.goog-te-banner-frame, 
+.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
